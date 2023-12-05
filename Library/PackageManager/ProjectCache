@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638367853742520824
+      ticks: 638368735930220744
     m_Hash: 2405387192
   m_LockFileStatus:
     m_FilePath: C:/Users/EXA/OneDrive/Dokumen/Grafkom/Final Project/final-project-el-psy-congroo/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638367853743630990
+      ticks: 638368735930262893
     m_Hash: 517873031
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
